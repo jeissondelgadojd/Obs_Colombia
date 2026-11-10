@@ -1,0 +1,23 @@
+﻿indicador,unidad,fuente,n_obs,n_territorios,anio_min,anio_max,desagregaciones,marcas_calidad,descripcion
+% población en edad de trabajar,%,DANE - GEIH,437,23,2007,2025,['Total'],[],Porcentaje de la población de 15 años y más
+Fuerza de trabajo,miles de personas,DANE - GEIH,437,23,2007,2025,['Total'],[],Ocupados + desocupados (miles)
+Fuerza de trabajo potencial,miles de personas,DANE - GEIH,437,23,2007,2025,['Total'],[],Fuerza de trabajo potencial (miles)
+IDC,índice (escala CPC ≈ 0-10),Consejo Privado de Competitividad,264,33,2019,2026,['Total'],[],Índice Departamental de Competitividad (Consejo Privado de Competitividad)
+IPM,%,DANE - ENCV,1312,33,2018,2025,"['Cabeceras', 'Centros poblados y rural disperso', 'Hombre', 'Mujer', 'Total']","['nota_2020_inasistencia', 'nota_2021_operativo']",Incidencia de pobreza multidimensional
+PIB_contribucion_crecimiento,puntos porcentuales,DANE - Cuentas nacionales,680,34,2006,2025,['Total'],"['preliminar', 'provisional']",Contribución del departamento al crecimiento del PIB nacional
+PIB_per_capita,pesos corrientes,DANE - Cuentas nacionales,714,34,2005,2025,['Total'],"['preliminar', 'provisional']",PIB departamental por habitante a precios corrientes
+PIB_tasa_crecimiento,%,DANE - Cuentas nacionales,680,34,2006,2025,['Total'],"['preliminar', 'provisional']",Tasa de crecimiento anual del PIB en volumen
+PIB_volumen_encadenado,miles de millones de pesos (ref. 2015),DANE - Cuentas nacionales,714,34,2005,2025,['Total'],"['preliminar', 'provisional']","PIB departamental en series encadenadas de volumen, año de referencia 2015"
+Población desocupada,miles de personas,DANE - GEIH,437,23,2007,2025,['Total'],[],Personas desocupadas (miles)
+Población en edad de trabajar (PET),miles de personas,DANE - GEIH,437,23,2007,2025,['Total'],[],Población de 15 años y más (miles)
+Población fuera de la fuerza de trabajo,miles de personas,DANE - GEIH,437,23,2007,2025,['Total'],[],PET − Fuerza de trabajo (miles)
+Población ocupada,miles de personas,DANE - GEIH,437,23,2007,2025,['Total'],[],Personas ocupadas (miles)
+Población subocupada,miles de personas,DANE - GEIH,437,23,2007,2025,['Total'],[],Personas subocupadas (miles)
+Población total,miles de personas,DANE - GEIH,437,23,2007,2025,['Total'],[],Población total (miles)
+Tasa Global de Participación (TGP),%,DANE - GEIH,437,23,2007,2025,['Total'],[],Fuerza de trabajo / PET × 100
+Tasa de Desocupación (TD),%,DANE - GEIH,437,23,2007,2025,['Total'],[],Desocupados / Fuerza de trabajo × 100
+Tasa de Ocupación (TO),%,DANE - GEIH,437,23,2007,2025,['Total'],[],Ocupados / PET × 100
+Tasa de Subocupación (TS),%,DANE - GEIH,437,23,2007,2025,['Total'],['no_disponible_COVID19'],Subocupados / Fuerza de trabajo × 100
+coeficiente_gini,coeficiente (0-1),DANE - GEIH,125,25,2021,2025,['Total'],['serie_post_2021_no_empalmable'],Coeficiente de Gini de desigualdad del ingreso (escala 0-1)
+incidencia_pobreza_monetaria,%,DANE - GEIH (pobreza monetaria),125,25,2021,2025,['Total'],['serie_post_2021_no_empalmable'],Porcentaje de personas en situación de pobreza monetaria
+personas_pobreza_monetaria,miles de personas,DANE - GEIH (pobreza monetaria),125,25,2021,2025,['Total'],['serie_post_2021_no_empalmable'],Número de personas en pobreza monetaria (miles)
